@@ -6,3 +6,5 @@ Git power.
 Create a new branch is quick and & simple.
 Hey,boy,system.out.println();
 Git is a free software.
+保存工作现在，方便以后恢复
+test bug branch.
